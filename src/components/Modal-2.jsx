@@ -44,7 +44,7 @@ const Modal2 = ({modal2IsOpen,closeModal2}) => {
         <div className='mt-4'>
           <button>All Contacts</button>
           <button onClick={openModal1} className='ml-4'>Us Contacts</button>
-          <button className='ml-4' onClick={closeModal1}>Close</button>
+          <button className='ml-4' onClick={closeModal2}>Close</button>
         </div>
 
         <div className="">
